@@ -1,0 +1,10 @@
+{
+    "servers": [
+        {
+            "ip": "governors-comprising.tun.ply.gg",
+            "port": 4460,
+            "server_name": "KoVich's server",
+            "game": "David Neighbor"
+        }
+    ]
+}
