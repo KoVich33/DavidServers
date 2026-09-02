@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "ip": "ramp-slapping.tun.ply.gg",
+            "ip": "147.185.221.231",
             "port": 13432,
             "server_name": "KoVich's server",
             "game": "David Neighbor"
