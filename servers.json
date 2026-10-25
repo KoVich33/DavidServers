@@ -1,4 +1,8 @@
 {
     "servers": [
+        "ip": "147.185.221.231",
+        "port": 13432,
+        "server_name": "KoVich's server (high ping)",
+        "game": "David Neighbor"
     ]
 }
